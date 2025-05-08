@@ -1,7 +1,7 @@
 <!-- I want to review in Japanese. -->
 
 ## **Overview**
-copilot review  最適化するためにテンプレートを作成します。
+
 
 
 <!-- for GitHub Copilot review rule -->
